@@ -6,6 +6,9 @@
 3. [CVPR 2017] [Top-down Visual Saliency Guided by Captions](https://hackmd.io/IYNlwZgI2BaAOADAdgKywCwCYtVgTgwGMMFEN8oBGDea5ZIA?view#)
 4. [CVPR 2016] [Learning Deep Features for Discrminiative Localization](https://hackmd.io/CYYwHARgTArALAUwLRxAThi8mMwMxJ54BsAhgOwIBmwteAjEA===#)
 
+### For AMMAI
+1. [CVPR 2011] [Iterative Quantization: A Procrustean Approach to Learning Binary Codes](https://hackmd.io/2ZxR2NmmRbqUJCa7GYvRow?view)
+
 ## Courses
 1. [Digital Signal Processing](https://hackmd.io/CYZgLAjA7AHARmAtAVgMYE4BsizGQM0TgENMZFhMIwBTA4ABgdTCA===#)
 2. [Digital Image Processing](https://hackmd.io/MwMwnATALApghgEwLQAYDGERKgdhHJSMANiQQFYBGGXOADjkqqA=#)
