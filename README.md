@@ -10,6 +10,7 @@
 1. [CVPR 2011] [Iterative Quantization: A Procrustean Approach to Learning Binary Codes](https://hackmd.io/2ZxR2NmmRbqUJCa7GYvRow?view)
 2. [CVPR 2017] [Learning From Noisy Large-Scale Datasets With Minimal Supervision](https://hackmd.io/vT_0cMFBQfO6WaGxVaCxaQ?view)
 3. [ICCV 2016] [Learning Deep Object Detectors from 3D Models](https://hackmd.io/QhzS3gwHRl2QWArw8PkFLQ?view)
+4. [ICML 2009] [Online Dictionary Learning for Sparse Coding](https://hackmd.io/dNmmqhHZSYeKrkE6cE7AMQ?view)
 
 ## Courses
 1. [Digital Signal Processing](https://hackmd.io/CYZgLAjA7AHARmAtAVgMYE4BsizGQM0TgENMZFhMIwBTA4ABgdTCA===#)
