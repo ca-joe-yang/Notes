@@ -12,6 +12,7 @@
 3. [ICCV 2016] [Learning Deep Object Detectors from 3D Models](https://hackmd.io/QhzS3gwHRl2QWArw8PkFLQ?view)
 4. [JMLR 2012] [A Hybrid Neural Network-Latent Topic Model](https://hackmd.io/Va1AgSoQQf2Ljloyneq-uQ?view)
 5. [ICML 2009] [Online Dictionary Learning for Sparse Coding](https://hackmd.io/dNmmqhHZSYeKrkE6cE7AMQ?view)
+6. [JMLR 2008] [Visualizing Data using t-SNE](https://hackmd.io/EApxyzS2SbaMwpUcCzYSzA?view)
 
 ## Courses
 1. [Digital Signal Processing](https://hackmd.io/CYZgLAjA7AHARmAtAVgMYE4BsizGQM0TgENMZFhMIwBTA4ABgdTCA===#)
