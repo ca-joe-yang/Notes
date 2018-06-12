@@ -15,7 +15,7 @@
 6. [JMLR 2008] [Visualizing Data using t-SNE](https://hackmd.io/EApxyzS2SbaMwpUcCzYSzA?view)
 7. [arXiv 2017] [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://hackmd.io/FrMO2imnTMmIcD0cTswa3Q?view)
 8. [arXiv 2018] [Completely Unsupervised Phoneme Recognition by Adversarially Learning Mapping Relationships from Audio Embeddings](https://hackmd.io/btKrrP3BShCJ75MlCHT6gA?view)
-9. 
+9. [arXiv 2018] [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://hackmd.io/1hkPofiYQ5GJf1zqKpmDbA?view)
 10. [IVLR 2017] [Neural Architecture Search with Reinforcement Learning](https://hackmd.io/3CmdvKK1Q4uNoVDeknScJQ?view)
 
 ## Courses
